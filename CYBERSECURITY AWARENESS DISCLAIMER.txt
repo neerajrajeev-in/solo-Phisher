@@ -1,0 +1,23 @@
+CYBERSECURITY AWARENESS DISCLAIMER
+==================================
+
+⚠️ DISCLAIMER
+
+This project is a CYBERSECURITY AWARENESS DEMO ONLY.
+
+No real credentials are stored or used.
+
+This project is created strictly for educational purposes,
+especially for BTech cybersecurity learning and demonstrations.
+
+It is intended to show how phishing-style pages work so users
+can learn how to identify and avoid real attacks.
+
+DO NOT use this project for any illegal or harmful activity.
+
+All testing should be done in a controlled, ethical environment
+with proper permission.
+
+----------------------------------
+
+Back to Home: /
