@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Instagram Login</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="login-box">
+    <h1>Instagram</h1>
+
+    <form action="/demo" method="POST">
+        <input type="text" name="username" placeholder="Phone number, username, or email" required>
+
+        <input type="password" name="password" placeholder="Password" required>
+
+        <button type="submit">Log In</button>
+    </form>
+
+    <p class="note">
+        Educational awareness demo for cybersecurity training.
+    </p>
+</div>
+
+</body>
+</html>
