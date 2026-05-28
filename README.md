@@ -47,7 +47,7 @@ This is a **Flask-based Cybersecurity Awareness Web Application** designed for:
 ## ⚙️ Installation (Local Setup)
 
 ```bash
-git clone https://github.com/yourusername/project.git
-cd project
+https://github.com/neerajrajeev-in/solo-Phisher.git
+cd solo-Phisher
 pip install -r requirements.txt
-python app.py
+python3 solo.py
